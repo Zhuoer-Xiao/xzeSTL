@@ -35,5 +35,77 @@
     <ClInclude Include="uninitialized.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="vector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="deque.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="queue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="heap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="priority_queue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="slist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rbtree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="set.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exceptdef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hashtable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="adaptor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="type_traits.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="numeric.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algobase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="set_algo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unordered_set.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unordered_map.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

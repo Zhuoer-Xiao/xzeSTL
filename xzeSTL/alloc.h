@@ -10,6 +10,7 @@
 #	define _THROW_BAD_ALLOC std::cerr<<"out of memory"<<std::endl; exit(1)
 #endif
 namespace xze {
+	
 	//一级分配器，调用c的malloc和realloc实现
 template<int inst>
 class _malloc_alloc_template {
@@ -88,6 +89,7 @@ void* _malloc_alloc_template<inst>::oom_realloc(void*p,size_t n) {
 	}
 }
 typedef _malloc_alloc_template<0> malloc_alloc;
+
 
 //第二级分配器，维护一个链表来组织内存碎片
 
@@ -242,7 +244,26 @@ char* _default_alloc_template<threads,inst>::chunk_alloc(size_t size,int& nobjs)
 		return (chunk_alloc(size, nobjs));
 	}
 }
-
+//一个简单的包装
+template<class T,class Alloc>
+class simple_alloc {
+public:
+	static T* allocate(size_t n) {
+		return 0 == n ? 0 : (T*)Alloc::allocate(n * sizeof(T));
+	}
+	static T* allocate(void) {
+		return (T*)Alloc::allocate(sizeof(T));
+	}
+	static void deallocate(T* p, size_t n) {
+		if (0 != n) {
+			Alloc::deallocate(p, n * sizeof(T));
+		}
+	}
+	static void deallocate(T* p) {
+		Alloc::deallocate(p, sizeof(T));
+	}
+};
+typedef _default_alloc_template<0, 0> alloc;
 }
 
 

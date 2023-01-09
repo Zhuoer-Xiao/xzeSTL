@@ -1,2 +1,132 @@
 ﻿  源.cpp
+D:\projects\xzeSTL\xzeSTL\type_traits.h(11,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\type_traits.h(12,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\type_traits.h(13,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\type_traits.h(14,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\type_traits.h(15,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\type_traits.h(16,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\type_traits.h(17,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\iterator.h(32,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\iterator.h(33,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\iterator.h(34,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\iterator.h(97,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\iterator.h(219,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\vector.h(246,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\algobase.h(53,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\algobase.h(54,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\algobase.h(55,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\algobase.h(56,1): warning C4010: 单行注释包含行继续符
+D:\projects\xzeSTL\xzeSTL\hashtable.h(123,33): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(137,1): warning C4305: “初始化”: 从“unsigned __int64”到“const unsigned long”截断
+D:\projects\xzeSTL\xzeSTL\hashtable.h(123,33): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(123,48): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(123,48): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(123,63): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(123,63): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,19): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,19): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,35): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,35): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,51): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,51): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,67): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(124,67): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(125,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(125,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(125,20): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(125,20): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(125,37): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(125,37): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(125,54): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(125,54): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(126,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(126,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(126,20): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(126,20): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(126,37): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(126,37): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(126,55): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(126,55): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(127,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(127,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(127,21): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(127,21): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(127,39): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(127,39): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(127,57): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(127,57): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(128,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(128,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(128,22): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(128,22): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(128,41): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(128,41): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(128,60): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(128,60): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(129,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(129,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(129,22): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(129,22): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(129,42): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(129,42): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(129,62): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(129,62): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(130,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(130,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(130,23): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(130,23): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(130,43): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(130,43): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(130,63): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(130,63): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(131,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(131,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(131,24): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(131,24): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(131,45): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(131,45): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(131,66): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(131,66): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(132,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(132,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(132,24): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(132,24): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(132,46): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(132,46): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(132,68): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(132,68): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(133,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(133,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(133,25): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(133,25): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(133,47): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(133,47): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(133,70): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(133,70): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(134,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(134,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(134,26): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(134,26): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(134,49): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(134,49): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(134,72): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(134,72): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(135,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(135,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(135,27): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(135,27): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(135,51): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(135,51): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(135,75): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(135,75): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(136,3): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(136,3): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(136,27): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(136,27): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(136,51): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(136,51): warning C4309: “初始化”: 截断常量值
+D:\projects\xzeSTL\xzeSTL\hashtable.h(136,76): warning C4838: 从“unsigned __int64”转换到“const unsigned long”需要收缩转换
+D:\projects\xzeSTL\xzeSTL\hashtable.h(136,76): warning C4309: “初始化”: 截断常量值
   xzeSTL.vcxproj -> D:\projects\xzeSTL\xzeSTL\x64\Debug\xzeSTL.exe
