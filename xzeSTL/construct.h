@@ -9,6 +9,17 @@ namespace xze {
 	inline void construct(T1* p, const T2& value) {
 		new(p) T1(value);
 	}
+	template<class T>
+	inline void construct(T* ptr) {
+		new((void)*ptr) T();
+	}
+	template <class T, class... Args>
+	void construct(T* ptr, Args&&... args)
+	{
+		new ((void*)ptr) T(forward<Args>(args)...);
+	}
+
+
 
 	template<class T>
 	inline void destroy(T* pointer) {

@@ -145,6 +145,7 @@
     <ClInclude Include="iterator.h" />
     <ClInclude Include="list.h" />
     <ClInclude Include="map.h" />
+    <ClInclude Include="memory.h" />
     <ClInclude Include="numeric.h" />
     <ClInclude Include="priority_queue.h" />
     <ClInclude Include="queue.h" />

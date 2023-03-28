@@ -107,5 +107,8 @@
     <ClInclude Include="unordered_map.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="memory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
